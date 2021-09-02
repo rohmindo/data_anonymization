@@ -1,6 +1,8 @@
 전체 대표할 이미지 자리
 ![image](https://user-images.githubusercontent.com/63469069/131832965-a010c023-edf3-4886-b64a-891857513124.png){: width="100%" height="100%"}
-<img src = "https://user-images.githubusercontent.com/63469069/131832965-a010c023-edf3-4886-b64a-891857513124.png" width="100%" height="100%">
+<img src = "https://user-images.githubusercontent.com/63469069/131832965-a010c023-edf3-4886-b64a-891857513124.png" width="50%" height="50%">
+
+<img src = "https://user-images.githubusercontent.com/63469069/131832869-9f987d3f-3aa9-4a71-b490-a8c68d1fb8d1.png" width="50%" height="50%">
 ![image](https://user-images.githubusercontent.com/63469069/131832869-9f987d3f-3aa9-4a71-b490-a8c68d1fb8d1.png){: width="100%" height="100%"}
  
 ## Table of Content
