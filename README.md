@@ -15,7 +15,7 @@
 ## 1. Introduction
 ### Background
 Due to the recent development of SNS and technology, many data are shared. This makes it important to protect data privacy. It also has CAMERA for AI function implementation in many areas. As such, data privacy is becoming important in many fields.
-Image anonymization is a technology that has emerged to protect personal information. This technology preserves privacy by removing identifiable personal information from images. Image anonymization technology is gaining more attention over time.
+Image anonymization is a technology that has emerged to protect personal information. This technology preserves privacy by removing identifiable personal information from images. Image anonymization technology is gaining more attention over time. 
 ### Goal & Process
 Image anonymization is carried out with a total of two goals. First of all, if the model is trained with anonymized dataset, the performance will inevitably be lower than that of the existing model. So the first goal is to minimize performance degradation and maintain ai utilization. The second is to preserve privacy by removing personal information from the image. With these two goals, image anonymization is carried out.
 Prepare the original dataset and three anonymized dataset. Learn the deep learning model using each dataset. Compare the accuracy of these models to see which anonymization method is best.
