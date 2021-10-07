@@ -28,7 +28,7 @@ Similar to mosaic processing, images are blurred using adjacent image pixel valu
 ### Perspective Transformation
 ![image](https://user-images.githubusercontent.com/63469069/131833704-d80f7154-555a-4e71-8e16-1a884a3c0dba.png)![image](https://user-images.githubusercontent.com/63469069/131833719-3176fd82-317f-4501-aea7-0597504dc820.png)![image](https://user-images.githubusercontent.com/63469069/131833727-fc75f37f-6f6a-4146-a2f5-941f444fe50c.png)![image](https://user-images.githubusercontent.com/63469069/131833776-3538e257-d97b-47da-8a7e-d3bba510f91a.png)
 
-
+ 
 
 In morphology operations, closed operations were selected as the representative anonymization technique. Closed operation means an erosion operation after a dilation operation. Because closed operations do erosion operations at the end, many pixels corresponding to personal information will be removed. Also, when tested with multiple images, closed was the most appropriate choice.
 ### Blocking&Merging
